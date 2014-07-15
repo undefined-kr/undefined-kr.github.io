@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  font-family: Helvetica, Arial, Hanna, sans-serif;
+  font-family: Helvetica, Monaco, Arial, Hanna, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
