@@ -15,4 +15,4 @@ categories: offline speakers
 오프모임 예상 일정  
 장소 : 강남  
 일시 : 7월 29(화)  
-발표자 지원 : [https://docs.google.com/forms/d/1uuJQxVFT7jHqBQi9Mj0ewu-GjmhF6448FrjEk90flGE/edit](https://docs.google.com/forms/d/1uuJQxVFT7jHqBQi9Mj0ewu-GjmhF6448FrjEk90flGE/edit)
+발표자 지원 : [지원링크 바로가기](https://docs.google.com/forms/d/1uuJQxVFT7jHqBQi9Mj0ewu-GjmhF6448FrjEk90flGE/edit)
