@@ -4,6 +4,7 @@
 @import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
 @import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(http://www.openhiun.com/hangul/nanumbarungothic.css);
 
 * {
   margin: 0;
@@ -13,7 +14,7 @@
 html, body { height: 100%; }
 
 body {
-  font-family: Helvetica, Monaco, Arial, Hanna, sans-serif;
+  font-family: Helvetica, Monaco, Arial, 'Nanum Barun Gothic', sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
