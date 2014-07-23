@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2014년 7월 undefine:D 오프모임 안내"
-date:   2014-07-13 16:45:00
+date:   2014-07-23 16:45:00
 categories: offline meetup
 ---
 
@@ -21,8 +21,8 @@ undefine:D 22번째 공부모임
 - 사 회 : iMaZiNe  
  
 소 개  
-- Sails on Heroku  
-  (빠르고 쉽게 웹사이트 구현하기) - 박준태
+ Sails on Heroku  
+  (빠르고 쉽게 웹사이트 구현하기) - 박준태  
   "클라우드플랫폼 Heroku 와 노드 프레임워크 Sails 에 대해 살펴봅니다."  
 - Change your perspective  
   (소통 멀고도 험한 여정) - 이태영  
