@@ -14,24 +14,24 @@ categories: offline meetup
 발표자님! 무더운 여름앞에서 가볍게 공부한판 하고가는 당신의 어깨에 묻어가겠습니다.!!
 
 undefine:D 22번째 공부모임  
-* 인 원 : 40명  
-* 장 소 : 토즈 강남점  
-* 일 자 : 2014년 07월 29일 (화요일)  
-* 시 간 : 오후 7시 30분 시작  
-* 사 회 : iMaZiNe  
+- 인 원 : 40명  
+- 장 소 : 토즈 강남점  
+- 일 자 : 2014년 07월 29일 (화요일)  
+- 시 간 : 오후 7시 30분 시작  
+- 사 회 : iMaZiNe  
  
 소 개  
-* Sails on Heroku  
+- Sails on Heroku  
   (빠르고 쉽게 웹사이트 구현하기) - 박준태
-  "클라우드플랫폼 Heroku 와 노드 프레임워크 Sails 에 대해 살펴봅니다."
-* Change your perspective  
-  (소통 멀고도 험한 여정) - 이태영
-* Java-Script 디버거 deb.js  
+  "클라우드플랫폼 Heroku 와 노드 프레임워크 Sails 에 대해 살펴봅니다."  
+- Change your perspective  
+  (소통 멀고도 험한 여정) - 이태영  
+- Java-Script 디버거 deb.js  
   (deb.js 사용방법 과 소스분석) - 전성균  
-* gulp.js 와의 만남  
-  (GULP.JS : The Streaming build system) - 변용훈
+- gulp.js 와의 만남  
+  (GULP.JS : The Streaming build system) - 변용훈  
 
 ![NAVER D2](http://cfile1.onoffmix.com/attach/aslOuJyMFw5PZfieVvFObF4paVHixaZ0)  
 참가신청 : 온오프믹스 [링크](http://onoffmix.com/event/31122)
 
-* 본 세미나는 네이버 개발자 지원 프로그램의 후원으로 진행됩니다.
+※본 세미나는 네이버 개발자 지원 프로그램의 후원으로 진행됩니다.
