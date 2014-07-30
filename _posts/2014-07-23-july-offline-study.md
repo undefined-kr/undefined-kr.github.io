@@ -34,7 +34,7 @@ undefine:D 22번째 공부모임
   (deb.js 사용방법 과 소스분석) - 전성균  
 
 - gulp.js 와의 만남  
-  (GULP.JS : The Streaming build system) - 변용훈  
+  (GULP.JS : The Streaming build system) - 변용훈 ([발표자료링크](https://rivario.com/slide/gulp))
 
 ![NAVER D2](http://cfile1.onoffmix.com/attach/aslOuJyMFw5PZfieVvFObF4paVHixaZ0)  
 참가신청 : 온오프믹스 [링크](http://onoffmix.com/event/31122)
