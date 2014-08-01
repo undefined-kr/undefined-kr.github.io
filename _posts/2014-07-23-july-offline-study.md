@@ -28,10 +28,10 @@ undefine:D 22번째 공부모임
   "클라우드플랫폼 Heroku 와 노드 프레임워크 Sails 에 대해 살펴봅니다." ([발표자료링크](http://rkjun.undefined.kr/presentations/sails-on-heroku/))
 
 - Change your perspective  
-  (소통 멀고도 험한 여정) - 이태영  
+  (소통 멀고도 험한 여정) - 이태영 ([발표자료링크](http://www.slideshare.net/taeyounglee1447/change-my-perspective-deginaerdeveloper-37530220))
 
 - Java-Script 디버거 deb.js  
-  (deb.js 사용방법 과 소스분석) - 전성균  
+  (deb.js 사용방법 과 소스분석) - 전성균 (취소, iMaZiNe님의 live git으로 대체) 
 
 - gulp.js 와의 만남  
   (GULP.JS : The Streaming build system) - 변용훈 ([발표자료링크](https://rivario.com/slide/gulp))
